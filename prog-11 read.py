@@ -1,0 +1,8 @@
+num1 = int (input("Erter the first 10-digit integer:"))
+num2 = int (input("Enter the second to-digit integers"))
+print(f"{num1}=={num2}:{num1 == num2}")
+print(f"{num1}!={num2}:{num1 != num2}")
+print(f"{num1}>{num2}:{num1 > num2}")
+print(f"{num1}<{num2}:{num1 < num2}")
+print(f"{num1}>={num2}:{num1 >= num2}")
+print(f"{num1}<={num2}:{num1 <= num2}")
